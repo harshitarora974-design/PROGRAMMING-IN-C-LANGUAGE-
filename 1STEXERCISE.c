@@ -18,17 +18,17 @@ aim - help students to ractise their coding skills , becoming a expert coder
    marks of a student in 5 subjects is input , calculate the aggregate (aggr) marks and percentage (per) in 5 subjects
 
 
- * * * *     * * * *  * * * *  * * * *  * * * *  *        * * * *  ********  * * * *
- *           *     *  *     *  *     *  *     *  *        *        *  **  *  *
- * * * *     * * * *  * * * *  *     *  * * * *  *        * * * *  *  **  *  * * * *
- *           *        * *      *     *  *     *  *        *        *      *        *
- * * * *  *  *        *   *    * * * *  * * * *  * * * *  * * * *  *      *  * * * *
+* * * *  *     *     * * * *  * * * *  * * * *  * * * *
+*          * *       *     *  *     *  *     *  *     *  
+* * * *     *        * * * *  * * * *  *     *  * * * *
+*          * *       *        * *      *     *  *     *
+* * * *  *     *  *  *        *   *    * * * *  * * * *
 
   
 → EXERCISE PROBLEM 1. 
-    to convert temp from fegree celcius to kelvin
+   to convert temp from fegree celcius to kelvin
 → EXERCISE PROBLEM 2.
-    enter length, breadth and radius and calculate rectangle perimeter plus circle area/circumference 
+   enter length, breadth and radius and calculate rectangle perimeter plus circle area/circumference 
 
 
 → SOLUTIONS ON " 1STEXSOL.c " 
