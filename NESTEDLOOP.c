@@ -3,14 +3,13 @@ aim - nested loop
 defination - a loop inside another loop is called nested loop
 */
 
+// 1. to print stars like : ***
+//                          ***
+//                          ***
+    
 #include <stdio.h>
 
 int main()
-    /* to print stars like ***
-     ***
-     ***
-     */
-    /*
     {
         int i, j;
 
@@ -25,54 +24,32 @@ int main()
 
         return 0;
     }
-    */
 
-    /*// aim - to print stars like *
+// ASSIGNMENTS 
+
+/* 1.  to print stars like 
+     *
      **
      ***
      ****
      *****
-     */
-
-    /*
-    {
-        int i,j;
-        for(i=0;i<5;i++)
-        {
-            for(j=0;j<5;j++)
-            {
-                if(j<=i)
-                {
-                    printf("*");
-                }
-            }
-            printf("\n");
-        }
-    }
-    */
-
-    /*
-    aim - to print numbering like  1
+*/     
+/* 1.  to print stars like 
+    *****
+    ****
+    ***
+    **
+    *
+ */   
+/* 3. to print numbering like :    1
                                    12
                                    123
                                    1234
                                    12345
-    */
-
-    /*
-    {
-        int i, j;
-
-        for (i = 0; i < 5; i++)
-        {
-            for (j = 0; j < 5; j++)
-            {
-                if (j <= i)
-                {
-                    printf("%d", j + 1);
-                }
-            }
-            printf("\n");
-        }
-    }
-    */
+*/
+/* 4. to print numbering like :    12345
+                                   1234
+                                   123
+                                   12
+                                   1
+*/
