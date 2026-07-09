@@ -1,5 +1,5 @@
 /*
-aim - left/right both diagonal elements of matrix
+aim -  upper and lower both triangular elements along with diagonal elements of matrix
 date - 15th june 2026
 */
 
