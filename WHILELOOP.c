@@ -20,3 +20,10 @@ int main()
 
     return 0;
 }
+
+// ASSIGNMENTS
+
+// 1. Sum of Digits     %
+// 2. Reverse of Digits
+// 3. Print a number to Word 123=> One Two Three
+// 4. enter a number and check is it arm strong or not
