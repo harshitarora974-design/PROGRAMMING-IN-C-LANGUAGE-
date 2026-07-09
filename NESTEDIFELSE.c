@@ -6,7 +6,6 @@ aim - to make one simple program to understand nested if else statement
 
 int main()
 
-    /*
     {
         int a, b, c;
         printf("enter three nums\n");
@@ -35,36 +34,9 @@ int main()
         }
         return 0;
     }
-    */
 
-    /*
-     * * * *  * * * *  * * * *  * * * *  *        * * * *  ********  * * * *
-     *     *  *     *  *     *  *     *  *        *        *  **  *  *
-     * * * *  * * * *  *     *  * * * *  *        * * * *  *  **  *  * * * *
-     *        * *      *     *  *     *  *        *        *      *        *
-     *        *   *    * * * *  * * * *  * * * *  * * * *  *      *  * * * *
-     */
+// ASSIGNMENT 
 
-    /*
-    { // lic policy program with nested if else
-        int age;
-        printf("enter your age\n");
-        scanf("%d", &age);
-        if (age >= 18)
-        {
-            if (age <= 45)
-            {
-                printf("eligible for lic policy");
-            }
-            else
-            {
-                printf("not eligible for lic policy");
-            }
-        }
-        else
-        {
-            printf("not eligible for lic policy");
-        }
-        return 0;
-    }
-     */
+// 1. AGE OF THE PERSON IS THE INPUT , OUTPUT IS IF AGE OF PERSON GEATER THAN OR EQUAL TO 18 AND LESS THAN OR EQUAL TO 45 THEN PRINT ELIGIBLE FOR LIC POLICY 
+// OTHERWISE NOT ELIGIBLE FOR LIC POLICY 
+   
