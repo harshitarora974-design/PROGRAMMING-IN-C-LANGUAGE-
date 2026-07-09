@@ -22,14 +22,14 @@ int main()
     for (j = 0; j < 3; j++)
     {
       /*
-       if(i+j==2) // for right diagonal elements
+      if (i <= j) // for upper triangular elements including diagonal
       */
-      /*
-      if(i==j) // for left diagonal elements
+     /*
+      if (i >= j) // for lower triangular elements including diagonal
       */
-      printf("%d\t", a[i][j]);
-      else 
-          printf("\t");
+        printf("%d\t", a[i][j]);
+      else
+        printf("\t");
     }
     printf("\n");
   }
