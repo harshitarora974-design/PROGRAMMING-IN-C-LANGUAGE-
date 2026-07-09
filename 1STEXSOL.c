@@ -79,3 +79,49 @@ int main()
   * * * *  *     *  *  * * * *  * * * *  * * * *
 
 
+→ EX SOL NO . 1
+   #include <stdio.h>
+
+int main()
+{
+    float celsius, kelvin;
+
+    printf("Enter temperature in Celsius: ");
+    scanf("%f", &celsius);
+
+    kelvin = celsius + 273.15;
+
+    printf("%.2f Celsius is equal to %.2f Kelvin\n", celsius, kelvin);
+
+    return 0;
+
+}
+
+
+→ EX SOL NO . 2
+   #include <stdio.h>
+
+int main(void)
+
+{
+    int length, breadth;
+    float radius;
+    int perimeter;
+    float area, circumference;
+
+    printf("Enter length and breadth of rectangle:\n");
+    scanf("%d %d", &length, &breadth);
+
+    printf("Enter radius of circle:\n");
+    scanf("%f", &radius);
+
+    perimeter = 2 * (length + breadth);
+    circumference = 2.0f * 3.14159f * radius;
+    area = 3.14159f * radius * radius;
+
+    printf("Perimeter of rectangle = %d\n", perimeter);
+    printf("Circumference of circle = %.2f\n", circumference);
+    printf("Area of circle = %.2f\n", area);
+
+    return 0;
+}
