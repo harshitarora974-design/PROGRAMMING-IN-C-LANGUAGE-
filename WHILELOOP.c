@@ -1,0 +1,22 @@
+/*
+topic - while loop
+  */
+
+#include <stdio.h>
+
+int main() 
+{
+    // 1. Initialization: Set the starting value
+    int i = 1; 
+
+    // 2. Condition: The loop runs as long as 'i' is less than or equal to 5
+    while (i <= 5) 
+    {
+        printf("Number: %d\n", i);
+
+        // 3. Updation: Increase 'i' by 1 so the loop doesn't run forever
+        i++; 
+    }
+
+    return 0;
+}
