@@ -30,4 +30,56 @@ int main()
 
 
 → SOL NO . 2.2
+  #include<stdio.h>
+
+int main()
+{
+  int num, reversed = 0, digit;
+
+  printf("Enter a 5-digit number: ");
+  scanf("%d", &num);
+
+   while (num != 0) 
+{
+      digit = num % 10;                    // Extract last digit
+      reversed = reversed * 10 + digit;    // Add digit to reversed
+      num /= 10;                           // Remove last digit
+  }
+
+  printf("Reversed number: %d\n", reversed);
+
+   return 0;
+}
+
+
+  * * * *  *     *     * * * *  * * * *  *
+  *          * *       *        *     *  *
+  * * * *     *        * * * *  *     *  * 
+  *          * *             *  *     *  *
+  * * * *  *     *  *  * * * *  * * * *  * * * *
+
+
+→ EX SOL NO . 1
+  #include<stdio.h>
+
+int main()
+
+{
+   int num, original, sum = 0, digit;
+
+    printf("Enter a 5-digit number: ");
+    scanf("%d", &num);
+
+    original = num;
+
+    while (num != 0) {
+        digit = num % 10;
+        sum += digit;
+        num /= 10;
+    }
+
+    printf("Sum of digits of %d is %d\n", original, sum);
+    return 0;
+}
+
   
