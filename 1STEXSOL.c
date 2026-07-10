@@ -54,7 +54,7 @@ int main()
 }
 
 
-→ SOL NO . 1.2
+→ SOL NO . 1.3
   #include <stdio.h>
 
 int main()
