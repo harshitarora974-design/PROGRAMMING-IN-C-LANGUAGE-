@@ -1,0 +1,33 @@
+/*
+SOLUTIONS OF EXERCISE TWO COMLPETE PROBLEMS INCLUDING PROBLEMS + EXPROBLEMS 
+*/
+
+
+  * * * *  * * * *  * * * *  * * * *     * * * *  * * * *  * 
+  *     *  *     *  *     *  *     *     *        *     *  *
+  * * * *  * * * *  *     *  * * * *     * * * *  *     *  *
+  *        * *      *     *  *     *           *  *     *  *
+  *        *   *    * * * *  * * * *  *  * * * *  * * * *  * * * *
+
+
+→ SOL NO . 2.1
+  #include<stdio.h>
+  #include<math.h>
+
+int main()
+
+{
+    float l,b,h,sp,area;
+    printf("enter l b & h of triangle\n ");
+    scanf("%f%f%f",&l,&b,&h);
+    sp = (l+b+h)/2;
+    area = sqrt(sp * (sp-l) * (sp-b) * (sp-h));
+    printf("area of triangle = %f\n",area);
+
+    return 0;
+
+}
+
+
+→ SOL NO . 2.2
+  
