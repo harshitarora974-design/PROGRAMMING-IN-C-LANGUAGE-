@@ -1,0 +1,29 @@
+/*
+aim - help students to ractise their coding skills , becoming a expert coder 
+*/
+
+ * * * *  * * * *  * * * *  * * * *  *        * * * *  ********  * * * *
+ *     *  *     *  *     *  *     *  *        *        *  **  *  *
+ * * * *  * * * *  *     *  * * * *  *        * * * *  *  **  *  * * * *
+ *        * *      *     *  *     *  *        *        *      *        *
+ *        *   *    * * * *  * * * *  * * * *  * * * *  *      *  * * * *
+
+→ PROBLEM NO . 2.1
+   three sides of triangle are input , find area of triangle
+→ PROBLEM NO . 2.2   
+   a 5 digit num is input and do its reverse of nums
+
+
+ * * * *  *     *     * * * *  * * * *  * * * *  * * * *
+ *          * *       *     *  *     *  *     *  *     *  
+ * * * *     *        * * * *  * * * *  *     *  * * * *
+ *          * *       *        * *      *     *  *     *
+ * * * *  *     *  *  *        *   *    * * * *  * * * *
+
+
+→ EXERCISE PROBLEM 1.   
+   if a 5 digit number is input from the keyboard , then find the sum of all its digits
+
+
+→ SOLUTIONS ON " 2NDEXSOL.c " 
+   
