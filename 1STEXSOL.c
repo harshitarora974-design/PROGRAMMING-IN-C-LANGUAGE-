@@ -1,6 +1,6 @@
 /*
 SOLUTIONS OF EXERCISE ONE COMLPETE PROBLEMS INCLUDING PROBLEMS + EXPROBLEMS 
-  */
+*/
 
 
   * * * *  * * * *  * * * *  * * * *     * * * *  * * * *  * 
