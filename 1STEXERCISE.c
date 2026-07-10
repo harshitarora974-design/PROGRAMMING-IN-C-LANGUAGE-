@@ -2,7 +2,6 @@
 aim - help students to ractise their coding skills , becoming a expert coder 
 */
 
-*
  * * * *  * * * *  * * * *  * * * *  *        * * * *  ********  * * * *
  *     *  *     *  *     *  *     *  *        *        *  **  *  *
  * * * *  * * * *  *     *  * * * *  *        * * * *  *  **  *  * * * *
