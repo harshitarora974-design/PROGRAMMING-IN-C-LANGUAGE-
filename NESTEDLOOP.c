@@ -1,11 +1,10 @@
-/*
-aim - nested loop
-defination - a loop inside another loop is called nested loop
-*/
 
-// 1. to print stars like : ***
-//                          ***
-//                          ***
+→ AIM - nested loop
+→ DEFINTION - a loop inside another loop is called nested loop
+
+ 1. to print stars like : ***
+                          ***
+                          ***
     
 #include <stdio.h>
 
