@@ -1,14 +1,12 @@
-/*
-usage of variables for various purposes
-like :
-sum of two nums
-*/
+
+→ AIM -usage of variables for various purposes
+
+→ sum of two nums
 
 #include <stdio.h>
 
 int main()
 
-    // sum of two nums
     {
         int a, b, total;
         a = 10;
