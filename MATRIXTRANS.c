@@ -1,7 +1,5 @@
-/*
-aim - transpose of matrix
-date - 15th june 2026
-*/
+
+→ AIM - transpose of matrix
 
 #include <stdio.h>
 int main()
@@ -21,9 +19,9 @@ int main()
     {
         for (j = 0; j < 3; j++)
         {
-            /*
+            
              printf("%d\t",a[j][i]); //interchange between i and j for transpose
-            */
+            
         }
         printf("\n");
     }
