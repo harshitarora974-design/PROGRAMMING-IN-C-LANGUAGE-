@@ -1,6 +1,6 @@
-/*
-aim - print "hello user" covered with stars in a formatted way
-*/
+
+→ AIM - print "hello user" covered with stars in a formatted way
+
 #include<stdio.h>
 
 int main()
