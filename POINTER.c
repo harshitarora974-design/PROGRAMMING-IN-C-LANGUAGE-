@@ -1,7 +1,5 @@
-/*
-TOPIC - POINTER 
-*/
 
+→ TOPIC - POINTER 
 
   #include <stdio.h>
 
