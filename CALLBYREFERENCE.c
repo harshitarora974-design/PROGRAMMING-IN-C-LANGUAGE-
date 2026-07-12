@@ -1,8 +1,6 @@
-/*
-Call By Reference
-if any change in formal parameter it 
-affects actual  paramater
-*/
+
+→ TOPIC -Call By Reference
+          if any change in formal parameter it affects actual  paramater
 
 #include<stdio.h>
 
@@ -20,6 +18,7 @@ void fun(int *x)  // x is formal parameter
 {
   *x=100;
 }
+
 /*
 Swaping of 2 nos using call by reference
 */
