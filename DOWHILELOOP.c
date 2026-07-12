@@ -1,3 +1,7 @@
+/*
+TOPIC - DO WHILE LOOP 
+*/
+
 #include<stdio.h>
 #include<conio.h>
 int main()
@@ -17,13 +21,11 @@ int main()
     }while(choice==1);
 }
 /*
-Assignment --
-Increase Choices
+Assignment :
+
 1. Sum
 2. Subtract
 3. Product
 4. Division
 5. Exit
-
-
 */
