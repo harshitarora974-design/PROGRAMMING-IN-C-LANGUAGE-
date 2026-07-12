@@ -1,6 +1,5 @@
-/*
-TOPIC -CONTINUE STATEMENT 
-*/
+
+→ TOPIC - CONTINUE STATEMENT 
 
 #include<stdio.h>
 #include<conio.h>
