@@ -1,7 +1,5 @@
-/*
-aim - product of two matix
-date - 16th june 2026
-*/
+
+→ AIM - product of two matix
 
 #include <stdio.h>
 int main()
