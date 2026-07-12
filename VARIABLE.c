@@ -1,10 +1,9 @@
-/*
-aim - variables 
-defination - a variable is a named memory location that can store a value of a specific data type.
-integers = %d(written simply)
-characters = %c(written in '#')
-floats = %f(written in decimals)
-*/
+
+→ AIM - variables 
+→ DEFINATION - a variable is a named memory location that can store a value of a specific data type.
+             → integers = %d(written simply)
+             → characters = %c(written in '#')
+             → floats = %f(written in decimals)
 
 #include <stdio.h>
 
