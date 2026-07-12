@@ -1,8 +1,6 @@
-/*
-Call By Value
-if any change in formal parameter 
-it does not affect actual  paramater
-*/
+
+→ TOPIC - Call By Value
+          if any change in formal parameter it does not affect actual  paramater
 
 #include<stdio.h>
 
