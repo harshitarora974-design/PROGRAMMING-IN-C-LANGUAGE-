@@ -1,7 +1,5 @@
-/*
-aim - sorting of elements in array
-date - 12th june 2026
-*/
+
+→ AIM - sorting of elements in array
 
 #include<stdio.h>
 int main()
