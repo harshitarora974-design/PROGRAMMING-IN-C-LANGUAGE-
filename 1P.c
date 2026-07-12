@@ -1,6 +1,6 @@
-/*
-  Program to print "hello user" in a formatted way
- */
+
+→ AIM - Program to print "hello user" in a formatted way
+ 
 #include <stdio.h>
 
 int main()
