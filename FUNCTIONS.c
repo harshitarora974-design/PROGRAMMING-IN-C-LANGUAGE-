@@ -1,6 +1,6 @@
-/*
-defination -  Function – Set of Instructions. Part of Program (Sub Program)
-*/
+
+→ TOPIC - FUNCTIONS
+→ DEFINATION - Set of Instructions. Part of Program (Sub Program)
 
 #include<stdio.h>
 #include<conio.h>
