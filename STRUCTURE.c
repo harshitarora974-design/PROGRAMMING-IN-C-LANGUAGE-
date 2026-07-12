@@ -1,7 +1,5 @@
-/*
-aim - structure
-date - 17th june 2026
-*/
+
+→ AIM - structure
 
 #include<stdio.h>
 struct book
