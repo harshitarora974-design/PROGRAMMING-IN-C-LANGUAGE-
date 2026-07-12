@@ -1,3 +1,6 @@
+
+→ TOPIC - ARRAY
+
 #include<stdio.h>
 int main()
 {
@@ -18,6 +21,7 @@ int main()
    }
    return 0;
 }
+
 /*
 enter 10 elements in array and print sum of its element.
 enter 10 elements in array and print it in reverse order
