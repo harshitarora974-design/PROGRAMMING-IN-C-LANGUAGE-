@@ -1,7 +1,6 @@
-/*
-aim - if else statement
-defination - if else is a conditional statement that allows the program to make decisions based on a condition.
-*/
+
+→ AIM - if else statement
+→ DEFINATION - if else is a conditional statement that allows the program to make decisions based on a condition.
 
 #include <stdio.h>
 
