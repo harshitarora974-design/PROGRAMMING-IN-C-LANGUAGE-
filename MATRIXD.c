@@ -1,7 +1,5 @@
-/*
-aim - left/right both diagonal elements of matrix
-date - 15th june 2026
-*/
+
+→ AIM - left/right both diagonal elements of matrix
 
 #include <stdio.h>
 int main()
