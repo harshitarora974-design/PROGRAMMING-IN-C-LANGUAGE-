@@ -1,6 +1,5 @@
-/*
-TOPIC - STORAGE CLASSES
-*/
+
+→ TOPIC - STORAGE CLASSES
 
 #include<STDIO.H>
 void msg();
@@ -16,11 +15,3 @@ void msg()
     printf("\nX=%d",x);
     x++;
 }
-
-
-/*
-X=1
-X=1
-X=1
-Static variable preserve itsself last value in multiple function call
-*/
