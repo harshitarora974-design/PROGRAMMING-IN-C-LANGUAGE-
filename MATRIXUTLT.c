@@ -1,7 +1,5 @@
-/*
-aim -  upper and lower both triangular elements along with diagonal elements of matrix
-date - 15th june 2026
-*/
+
+→ AIM -  upper and lower both triangular elements along with diagonal elements of matrix
 
 #include <stdio.h>
 int main()
@@ -21,12 +19,10 @@ int main()
   {
     for (j = 0; j < 3; j++)
     {
-      /*
+  
       if (i <= j) // for upper triangular elements including diagonal
-      */
-     /*
       if (i >= j) // for lower triangular elements including diagonal
-      */
+      
         printf("%d\t", a[i][j]);
       else
         printf("\t");
