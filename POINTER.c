@@ -1,4 +1,9 @@
-#include <stdio.h>
+/*
+TOPIC - POINTER 
+*/
+
+
+  #include <stdio.h>
 
 int main()
 {
