@@ -1,3 +1,7 @@
+/*
+TOPIC - SWITCH CASE 
+*/
+
 #include<stdio.h>
 int main()
 {
@@ -34,6 +38,8 @@ int main()
    }
    return 0;
 }
+
+
 /*
 1. enter a digit and print it in word. 0 Zero, 1 One
 2. enter a char and check it it vowel or consonant
