@@ -27,29 +27,28 @@ int main()
 
 // ASSIGNMENTS 
 
-/* 1.  to print stars like 
+1.  to print stars like 
      *
      **
      ***
      ****
      *****
-*/     
-/* 1.  to print stars like 
+     
+2.  to print stars like 
     *****
     ****
     ***
     **
     *
- */   
-/* 3. to print numbering like :    1
+   
+3. to print numbering like :       1
                                    12
                                    123
                                    1234
                                    12345
-*/
-/* 4. to print numbering like :    12345
+
+4. to print numbering like :       12345
                                    1234
                                    123
                                    12
-                                   1
-*/
+                                   1/
