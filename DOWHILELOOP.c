@@ -1,6 +1,5 @@
-/*
-TOPIC - DO WHILE LOOP 
-*/
+
+→ TOPIC - DO WHILE LOOP 
 
 #include<stdio.h>
 #include<conio.h>
@@ -20,6 +19,7 @@ int main()
       scanf("%d",&choice);
     }while(choice==1);
 }
+
 /*
 Assignment :
 
@@ -27,5 +27,4 @@ Assignment :
 2. Subtract
 3. Product
 4. Division
-5. Exit
 */
