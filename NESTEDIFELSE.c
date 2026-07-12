@@ -1,6 +1,5 @@
-/*
-aim - to make one simple program to understand nested if else statement
-*/
+
+→ AIM - to make one simple program to understand nested if else statement
 
 #include <stdio.h>
 
