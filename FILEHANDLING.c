@@ -1,6 +1,5 @@
-/*
-topic - file handling 
-*/
+
+→ TOPIC - file handling 
 
 #include<stdio.h>
 #include<conio.h>
