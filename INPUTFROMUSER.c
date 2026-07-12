@@ -1,6 +1,5 @@
-/*
-aim - to take input from user and do tasks in topic variable
-*/
+
+→ AIM - to take input from user and do tasks in topic variable
 
 #include <stdio.h>
 
