@@ -1,3 +1,7 @@
+/*
+TOPIC -CONTINUE STATEMENT 
+*/
+
 #include<stdio.h>
 #include<conio.h>
 
@@ -33,5 +37,4 @@ i      for condition    if condition   print
 
 /*
 print all possible combination of 1 2 3
-
 */
