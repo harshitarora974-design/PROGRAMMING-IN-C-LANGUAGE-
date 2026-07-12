@@ -1,6 +1,5 @@
-/*
-topic - while loop
-  */
+
+→ TOPIC - while loop
 
 #include <stdio.h>
 
