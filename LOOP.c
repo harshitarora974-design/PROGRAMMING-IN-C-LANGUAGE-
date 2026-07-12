@@ -1,7 +1,6 @@
-/*
-aim - to demonstrate loops in C
-defination - a loop is a sequence of instructions that is continually repeated until a certain condition is reached.
-*/
+
+→ AIM - to demonstrate loops in C
+→ DEFINATION - a loop is a sequence of instructions that is continually repeated until a certain condition is reached.
 
 #include <stdio.h>
 
