@@ -1,7 +1,5 @@
-/*
-matrix - 2d array , rows columns
-date - 15th june 2026
-*/
+
+→ TOPIC - MATRIX
 
 #include<stdio.h>
 int main()
