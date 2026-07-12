@@ -1,7 +1,5 @@
-/*
-aim - to do sum of two matrix
-date 15th june 2026
-*/
+
+→ AIM - to do sum of two matrix
 
 #include <stdio.h>
 int main()
